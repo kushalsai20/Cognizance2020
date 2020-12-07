@@ -13,8 +13,8 @@ Vary your progressive  resistance training  program  every six to eight weeks to
 - sets
 - repetitions
 - exercises undertaken
-- intensity (weights used)
-- frequency of sessions
+- intensity (weights used).
+- frequency of sessions.
 - rest between sets.
 
 If you vary your resistance training program through the number of repetitions and sets performed, exercises undertaken and weights used, you will maintain any strength gains you make.
