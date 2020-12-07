@@ -8,7 +8,7 @@ Resistance training is based on the principle that muscles of the body will work
 
 A well-rounded fitness program includes strength training to improve joint function, bone density, muscle, tendon and ligament strength, as well as aerobic exercise to improve your heart and lung fitness, flexibility and balance exercises. *Australia’s physical activity and sedentary behaviour guidelines* recommend that adults do muscle strengthening activities on at least two days each week.
 
-Vary your progressive resistance training program every six to eight weeks to maintain improvement. Variables that can impact on your results include:
+Vary your progressive resistance training program  every six to eight weeks to maintain improvement. Variables that can impact on your results include:
 
 - sets
 - repetitions
@@ -29,7 +29,7 @@ Different types of resistance training include:
 
 - free weights – classic strength training tools such as dumbbells, barbells and kettlebells
 - medicine balls or sand bags – weighted balls or bags
-- weight machines – devices that have adjustable seats with handles attached either to weights or hydraulics
+- weight machines – devices that have adjustable seats with handles  attached either to weights or hydraulics
 - resistance bands – like giant rubber bands – these provide resistance when stretched. They are portable and can be adapted to most workouts. The bands provide continuous resistance throughout a movement.
 - suspension equipment – a training tool that uses gravity and the user's body weight to complete various exercises
 - your own body weight – can be used for squats, push-ups and chin-ups. Using your own body weight is convenient, especially when travelling or at work. 
