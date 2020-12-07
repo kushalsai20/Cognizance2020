@@ -48,7 +48,7 @@ Physical and mental health benefits that can be achieved through resistance trai
 - prevention or control of chronic conditions such as [diabetes](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/diabetes), [heart disease](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/heart-disease-and-stroke), [arthritis](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/arthritis), [back pain](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/Back-pain), [depression](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/depression) and [obesity](https://www.betterhealth.vic.gov.au/health/healthyliving/obesity)
 - [pain management](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pain-and-pain-management-adults)
 - improved mobility and balance
-- improved posture
+- improved posture.
 
 
 - decreased risk of injury
