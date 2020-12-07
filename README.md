@@ -2,11 +2,11 @@
 
 *RESISTANCE  TRAINING*
 
-*Resistance* training (also called strength training or weight training) is the use of resistance to muscular contraction to build the strength, anaerobic endurance and size of skeletal muscles.
+*Resistance* training (also called strength training or weight training) is the use of resistance  to muscular contraction to build the strength, anaerobic endurance and size of skeletal muscles.
 
 Resistance training is based on the principle that muscles of the body will work to overcome a resistance force when they are required to do so. When you do resistance training repeatedly and consistently, your muscles become stronger.
 
-A well-rounded fitness program includes strength training to improve joint function, bone density, muscle, tendon and ligament strength, as well as aerobic exercise to improve your heart and lung fitness, flexibility and balance exercises. *Australia’s physical activity and sedentary behaviour guidelines* recommend that adults do muscle strengthening activities on at least two days each week.
+A well-rounded fitness program includes strength training to improve joint function, bone density, muscle, tendon and ligament strength, as well as aerobic exercise to improve your heart and lung fitness, flexibility and balance exercises. *Australia’s physical activity and sedentary  behaviour guidelines* recommend that adults do muscle strengthening activities on at least two days each week.
 
 Vary your progressive resistance training program  every six to eight weeks to maintain improvement. Variables that can impact on your results include:
 
